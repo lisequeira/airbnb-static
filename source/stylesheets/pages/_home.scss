@@ -1,0 +1,20 @@
+.index{
+  .row{
+    .img-small{
+      width: 70px;
+      }
+      h2{
+        font-size: 25px;
+      }
+  }
+
+  .wrapper-grey{
+    h2{
+      font-weight: 400px;
+    }
+    p{
+      font-family: $header-font;
+      font-size: $base-size;
+    }
+  }
+}
